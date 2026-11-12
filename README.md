@@ -4,7 +4,7 @@
 
 Check out my portfolio here: [wip]!
 
-If you're into 📝 stationery 📝, check out the stationery repository for custom index tabs, stickers, and more that I personally created! It's also conveniently in [website form](https://linyingyin.github.io/Stationery/)
+If you're into 📝 stationery 📝, check out the stationery repository for custom index tabs, stickers, and more that I personally created! It's also conveniently in [website form](https://linyingyin.github.io/Stationery/).
 
 
 <!--
